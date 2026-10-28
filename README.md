@@ -18,7 +18,7 @@
 *   **录音功能**：支持倒计时录音（最新版）。
 *   **乐谱导出**：支持导出标准 MusicXML 格式及图片谱。
 *   **极简轻量**：安装包压缩后仅约 16.5MB。
-*   **多语言**：内置八国语言翻译。
+*   **多语言**：内置七国语言及一个地区版本（简中、繁中、英、俄、日、法、德、意、西）。
 
 *(注：软件仍在不断完善中，部分底层算法还有较大的优化空间，欢迎指正。)*
 
@@ -62,7 +62,7 @@ So, I spent a few days building this. It's not just for myself, but for anyone e
 *   **Recording**: Supports count-in recording (in the latest version).
 *   **Score Export**: Supports standard MusicXML export and image scores.
 *   **Lightweight**: The compressed installation package is only about 16.5MB.
-*   **Multi-language**: Includes 8 different languages.
+*   **Multi-language**: Includes 7 languages and 1 regional variant (Simplified Chinese, Traditional Chinese, English, Russian, Japanese, French, German, Italian, Spanish).
 
 *(Note: The software is still under active development. Some underlying algorithms have room for optimization. Feedback is always welcome.)*
 
@@ -85,5 +85,5 @@ This software is for personal learning and technical exchange. It is completely 
 
 ---
 <div align="center">
-  <i>"关注吴某人谢谢喵" / "Follow WuMouRen Thanks Meow"</i>
+  <b>"关注吴某人谢谢喵" / "Follow WuMouRen Thanks Meow"</b>
 </div>
