@@ -1,6 +1,6 @@
-# 🎹 Fruit Bot (蝠乐达) - 免费音乐制作软件
+# 🎹 Fruit Bat (蝠乐达) - 免费音乐制作软件
 
-**Fruit Bot** 是一款完全免费、轻量级的数字音频工作站（DAW）。
+**Fruit Bat** 是一款完全免费、极致轻量级的数字音频工作站（DAW）。
 
 它或许比不上那些动辄数千元、甚至上万元的商业级宿主软件，但对于一些无力承担高昂软件费用的独立音乐人、学生或游戏开发者来说，它将是一款用于助力你制作音乐的实用工具。
 
@@ -10,6 +10,14 @@
 
 所以我花了几天时间，自己写了这个软件。它不仅是为了帮助我自己，也希望能帮到更多被“付费墙”拦住音乐梦想的人。
 
+## 🌟 核心亮点：极致包容与无障碍
+
+我们致力于打破传统音乐制作软件的“专业傲慢”，让任何人都能轻松上手：
+
+*   **🎵 无乐理友好**：不需要懂复杂的五线谱、和弦走向或乐理知识。只要你会用鼠标点格子，就能创作出属于你的旋律。
+*   **♿ 无障碍与极简交互**：**我们大幅降低了操作门槛，甚至残疾人士也能轻松上手。** 极简的 UI 设计、直观的快捷键和清晰的焦点反馈，让操作不再困难。
+*   **✨ 极简轻量**：安装包压缩后仅约 16.5MB，老旧电脑也能秒开，拒绝臃肿。
+
 ## ✨ 当前版本包含的功能
 
 *   **基础编曲与多轨混音**：支持自由增减音轨。
@@ -17,7 +25,6 @@
 *   **音频剪辑与处理**：支持导入音频，基础的时间拉伸与变调功能。
 *   **录音功能**：支持倒计时录音（最新版）。
 *   **乐谱导出**：支持导出标准 MusicXML 格式及图片谱。
-*   **极简轻量**：安装包压缩后仅约 16.5MB。
 *   **多语言**：内置七国语言及一个地区版本（简中、繁中、英、俄、日、法、德、意、西）。
 
 *(注：软件仍在不断完善中，部分底层算法还有较大的优化空间，欢迎指正。)*
@@ -42,9 +49,9 @@
 ---
 <br>
 
-# 🎹 Fruit Bot - A Free DAW for Music Production
+# 🎹 Fruit Bat - A Free DAW for Music Production
 
-**Fruit Bot** is a completely free and lightweight Digital Audio Workstation (DAW). 
+**Fruit Bat** is a completely free and lightweight Digital Audio Workstation (DAW). 
 
 It may not rival expensive, commercial-grade software, but for independent musicians, students, or game developers who cannot afford premium DAWs, it is designed to be a practical tool to help you produce your own music.
 
@@ -54,6 +61,14 @@ The reason is simple: I am a 15-year-old student and cannot afford the subscript
 
 So, I spent a few days building this. It's not just for myself, but for anyone else whose musical dreams are blocked by paywalls.
 
+## 🌟 Core Highlights: Ultimate Inclusivity & Accessibility
+
+We are committed to breaking the "professional arrogance" of traditional music production software, making it easy for anyone to get started:
+
+*   **🎵 Music Theory Friendly**: No need to understand complex sheet music, chord progressions, or music theory. As long as you can click on a grid with a mouse, you can create your own melodies.
+*   **♿ Accessibility & Minimalist Interaction**: **We have significantly lowered the barrier to entry, making it easy to use even for people with disabilities.** The minimalist UI design, intuitive shortcuts, and clear focus feedback make operation no longer difficult.
+*   **✨ Ultra-Lightweight**: The compressed installation package is only about 16.5MB. It opens instantly even on older computers, rejecting bloat.
+
 ## ✨ Current Features
 
 *   **Basic Sequencing & Multi-track Mixing**: Supports dynamic track creation.
@@ -61,7 +76,6 @@ So, I spent a few days building this. It's not just for myself, but for anyone e
 *   **Audio Editing**: Supports audio import, basic time-stretching, and pitch-shifting.
 *   **Recording**: Supports count-in recording (in the latest version).
 *   **Score Export**: Supports standard MusicXML export and image scores.
-*   **Lightweight**: The compressed installation package is only about 16.5MB.
 *   **Multi-language**: Includes 7 languages and 1 regional variant (Simplified Chinese, Traditional Chinese, English, Russian, Japanese, French, German, Italian, Spanish).
 
 *(Note: The software is still under active development. Some underlying algorithms have room for optimization. Feedback is always welcome.)*
